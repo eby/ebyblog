@@ -1,0 +1,54 @@
+--- 
+wordpress_id: 157
+layout: post
+title: links for 2006-01-05
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-05/
+---
+<ul>
+	<li>
+		<div><a href="http://chrispederick.com/work/webdeveloper/">Web Developer Extension 1.0</a></div>
+		<div>new features and bugfixes. must have extension</div>
+		<div>(tags: <a href="http://del.icio.us/eby/firefox">firefox</a> <a href="http://del.icio.us/eby/css">css</a> <a href="http://del.icio.us/eby/html">html</a> <a href="http://del.icio.us/eby/webdesign">webdesign</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.newscientist.com/podcast.ns">New Scientist Podcast</a></div>
+		<div>pilot project</div>
+		<div>(tags: <a href="http://del.icio.us/eby/podcast">podcast</a> <a href="http://del.icio.us/eby/audio">audio</a> <a href="http://del.icio.us/eby/science">science</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://dig.csail.mit.edu/breadcrumbs/node/62">Links on the Semantic Web | Decentralized Information Group (DIG) Breadcrumbs</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/semanticweb">semanticweb</a> <a href="http://del.icio.us/eby/RDF">RDF</a> <a href="http://del.icio.us/eby/javascript">javascript</a> <a href="http://del.icio.us/eby/ajar">ajar</a> <a href="http://del.icio.us/eby/linking">linking</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.chatchada.com/">Chatchada, masahiro mori, kazuhiko tomita, cast iron cookware, sigg sports bottle</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/shopping">shopping</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://domscripting.com/blog/display/41">DOM Scripting: Hijax</a></div>
+		<div>progressive enhancement with Ajax</div>
+		<div>(tags: <a href="http://del.icio.us/eby/ajax">ajax</a> <a href="http://del.icio.us/eby/javascript">javascript</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.groklaw.net/article.php?story=20060102131449899">GROKLAW - More DRM Follies - The Coldplay Edition</a></div>
+		<div>MS wins, consumers lose</div>
+		<div>(tags: <a href="http://del.icio.us/eby/law">law</a> <a href="http://del.icio.us/eby/DRM">DRM</a> <a href="http://del.icio.us/eby/music">music</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://news.bbc.co.uk/2/hi/uk_news/magazine/4566526.stm">BBC NEWS | UK | Magazine | 100 things we didn't know this time last year</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/bbc">bbc</a> <a href="http://del.icio.us/eby/bestof2005">bestof2005</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.maxdesign.com.au/presentation/workshop/">Basic webstandards Workshop</a></div>
+		<div>good intro, slides from presentation</div>
+		<div>(tags: <a href="http://del.icio.us/eby/css">css</a> <a href="http://del.icio.us/eby/html">html</a> <a href="http://del.icio.us/eby/reference">reference</a> <a href="http://del.icio.us/eby/standards">standards</a> <a href="http://del.icio.us/eby/accessibility">accessibility</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://money.cnn.com/2005/11/28/news/newsmakers/goldenrule_biz20_1205/index.htm">BUSINESS 2.0: My golden rule - Nov. 28, 2005</a></div>
+		<div>49 leaders, from Buffett to Spitzer, share their secrets to success.</div>
+		<div>(tags: <a href="http://del.icio.us/eby/business">business</a> <a href="http://del.icio.us/eby/tips">tips</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.alternet.org/story/29899/">AlterNet: The Best $24.95 MoveOn Ever Spent</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/flickr">flickr</a> <a href="http://del.icio.us/eby/tagging">tagging</a>)</div>
+	</li>
+</ul>

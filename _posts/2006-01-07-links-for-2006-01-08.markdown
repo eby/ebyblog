@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 160
+layout: post
+title: links for 2006-01-08
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-08/
+---
+<ul>
+	<li>
+		<div><a href="http://www.nuvvo.com/">Nuvvo Free On-demand eLearning</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/elearning">elearning</a> <a href="http://del.icio.us/eby/education">education</a> <a href="http://del.icio.us/eby/web">web</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.favorville.com/">Favorville : People Helping People</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/network">network</a> <a href="http://del.icio.us/eby/tagging">tagging</a> <a href="http://del.icio.us/eby/web">web</a> <a href="http://del.icio.us/eby/social">social</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.xml.com/pub/a/2006/01/04/creating-xml-with-ruby-and-builder.html">XML.com: Creating XML with Ruby and Builder</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/ruby">ruby</a> <a href="http://del.icio.us/eby/xml">xml</a> <a href="http://del.icio.us/eby/programming">programming</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://duncandavidson.com/essay/2005/12/railsdeployment">Real Lessons for Rails Deployment</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/ruby">ruby</a> <a href="http://del.icio.us/eby/rails">rails</a> <a href="http://del.icio.us/eby/programming">programming</a> <a href="http://del.icio.us/eby/tips">tips</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.aaronsw.com/weblog/productivity">HOWTO: Be more productive (Aaron Swartz: The Weblog)</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/GTD">GTD</a> <a href="http://del.icio.us/eby/tips">tips</a> <a href="http://del.icio.us/eby/howto">howto</a>)</div>
+	</li>
+</ul>

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 563
+layout: post
+title: Boxes
+wordpress_url: http://blog.ryaneby.com/archives/boxes/
+---
+Audio is NSFW. <a href="http://www.coudal.com/regrets.php">Full series on Coudal</a>.
+
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/nAJXki87vgw"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/nAJXki87vgw" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

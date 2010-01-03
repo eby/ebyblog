@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 398
+layout: post
+title: Quickies for Oct 25, 2006
+wordpress_url: http://blog.ryaneby.com/archives/quickies-for-oct-25-2006/
+---
+<ul>
+<li><a href="http://www.1060.org/blogxter/entry?publicid=D4460E7C0044D9CEE38806AEC4CBC5C9">Parental disappointment has changed over the years</a></li>
+<li>Presentation on the <a href="http://boagworld.com/standards/">Business Benefits of Web Standards</a></li>
+<li><a href="http://www.kaconsult.com/library">Survey on why we still buy hardcopy items</a> in libraries. Taking submissions until October 31st.</li>
+<li><a href="http://joyeur.com/2006/10/13/introducing-joyent-core">Joyent Core</a> - a compelling hosting solution. I've thought about textdrive and strongspace but the bundle looks really good.</li>
+<li><a href="http://www.shauninman.com/post/about/the_heap/">Blog as Compost Heap</a> - interesting idea and execution. As articles age the colors degrade until they are unreadable.</li>
+<li>The <a href="http://darwin-online.org.uk/">complete works of Charles Darwin</a> are now online.</li>
+<li><a href="http://developer.aim.com/botMain.jsp">Convert AIM screenname into AIM bot</a> - allows you to remove some of the restrictions for your AIM bot though it prevents it from initiating a chat (important if your bot sends notices)</li>
+<li>Google now allows <a href="http://www.google.com/coop/cse/overview">the creation of custom vertical search engines</a> (think RollYo)</li>
+</ul>

@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 581
+layout: post
+title: Library Camps 2008
+wordpress_url: http://blog.ryaneby.com/archives/library-camps-2008/
+---
+As previously posted there will be a Library Camp here at AADL on March 20, 2008. More <a href="http://libsuccess.org/index.php?title=Library_Camp">information has been posted to libsuccess.org</a>.
+
+<blockquote>Library Camp doesn't mean burned marshmallows, mosquito bites, or popsicle stick-based art projects. Library Camp is a series of informal Unconference gatherings to share ideas, technologies, and discussions.
+
+The next Library Camp will be held Thursday, March 20th, 2008, at the Downtown Branch of the Ann Arbor District Library, from 9:30 AM - 4:00 PM.
+
+The goal is to get a bunch of people together, and let them talk about whatever they'd like to talk about, within the rough purview of libraries and library technology. We'll start with all getting together with a blank schedule to talk about what we'd like to talk about and fill in a few slots on the agenda. We've got time for four sessions and room for at least 3 concurrent sessions, so there could easily be 10-12 different things to talk about during the day.</blockquote>
+
+For those that can't get to Ann Arbor there also appears to be a <a href="http://librarycampks.wetpaint.com/">Library Camp Kansas</a> on March 19.
+
+<blockquote>Library Camp Kansas is a library unconference that will be held March 19, 2008 from 10 a.m. to 4 p.m. at Hale Library on Kansas State University's Manhattan campus. Participation is open to anyone who is interested in dialogue and conversation about customer-friendly libraries, library 2.0 and how we can all improve our services and organizations to meet the needs of our communities.</blockquote>

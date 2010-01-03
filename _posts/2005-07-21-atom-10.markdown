@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 31
+layout: post
+title: Atom 1.0
+wordpress_url: http://ebybox.aresgate.net/blog/?p=31
+---
+The Atom format has reached the 1.0 level. I might get better Atom feeds up here soon. I've followed the development from the beginnings and I really have high hopes for the format. More here:
+
+<a href="http://www.tbray.org/ongoing/When/200x/2005/07/14/Atom-1.0">http://www.tbray.org/ongoing/When/200x/2005/07/14/Atom-1.0</a>

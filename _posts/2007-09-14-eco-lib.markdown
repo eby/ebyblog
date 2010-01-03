@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 566
+layout: post
+title: Eco-Lib
+wordpress_url: http://blog.ryaneby.com/archives/eco-lib/
+---
+<a href="http://www.aadl.org">AADL</a> has tried a few things in the eco area though I haven't looked into it as much as I probably should. A few I know about are the <a href="http://www.aadl.org/node/3817">tree removal</a> at the new branch site and the change to <a href="http://www.aadl.org/node/4906">reusable bags</a>.
+
+A couple things that came across the reader recently were <a href="http://www.ecolibris.net/index.asp">Eco-Libris</a> (via <a href="http://librarianinblack.typepad.com/librarianinblack/2007/09/ecolibris.html">LibrarianInBlack</a>) which aims to plant trees to offset book production:
+
+<blockquote>For every book you balance out, we will send you an Eco-Libris sticker to put on your book cover, displaying your commitment to sustainability and perhaps even inspiring others to become more responsible about their use of natural resources (in case you were wondering - the sticker is made of recycled paper with non-toxic ink. oh, and the thank you note too, and yeah, even the envelope).</blockquote>
+
+An interesting idea and they are <a href="http://www.ecolibris.net/business_opp.asp">looking to partner with publishers, libraries, bookstores, etc</a>. I'm not familiar with the facts behind book production so can't speak about the logic of it but something to look at.
+
+Another post was <a href="http://www.librarian.net/stax/2139/libraries-help-you-save-moneyenergythe-world/">over at librarian.net about the lending of home energy meters</a> at libraries. This appears to be a partnership with local organizations. There's probably quite a few opportunities out there for partnering with organizations about lending kits, products or other items for community education.

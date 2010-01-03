@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 149
+layout: post
+title: links for 2006-01-02
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-02/
+---
+<ul>
+	<li>
+		<div><a href="http://www.sitepoint.com/blogs/2005/02/26/simple-clearing-of-floats/">SitePoint Blogs Ã‚Â» Simple Clearing of Floats</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/css">css</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://gentoo-wiki.com/HOWTO_build_a_LiveCD_from_scratch">HOWTO build a LiveCD from scratch - Gentoo Linux Wiki</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/linux">linux</a> <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/reference">reference</a>)</div>
+	</li>
+</ul>

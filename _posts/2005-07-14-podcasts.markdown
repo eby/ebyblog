@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 30
+layout: post
+title: Podcasts
+wordpress_url: http://ebybox.aresgate.net/blog/archives/podcasts/
+---
+When podcasts/ipodder began I started listening to podcasts. At that point there weren't that many though it was starting to grow. I found that having a separate application was just too much for me and so I rarely updated/downloaded the podcasts.
+
+With the release of <a href="http://www.apple.com/itunes/">iTunes w/ podcasting support</a> I've begun again and I have to say this time I think it will stick. Having it update automatically in iTunes itself and with the iPod support it just works the way I always wanted it to. I did make one change and that is that I use <a href="http://odeo.com/">Odeo</a> for my subscriptions. I find that it is much better organized that the iTunes Podcast Store. The ability to tag posts is one of the killer features. It also lets me easily queue single shows. I then subscribe to my queue in iTunes and away I go. They also have their own app if your not an iTunes fan. I recommend you give it a try. Still in beta but already a great service. Here's some of my subscriptions:
+
+<ul>
+<li><a href="http://odeo.com/channel/811/view">In Our Time</a></li>
+<li><a href="http://odeo.com/channel/2751/view">Acts of Volition</a></li>
+<li><a href="http://odeo.com/channel/3869/view">Open Stacks</a></li>
+<li><a href="http://odeo.com/channel/168/view">Winecast</a></li>
+<li><a href="http://odeo.com/channel/492/view">GrapeRadio</a></li>
+<li><a href="http://odeo.com/channel/4724/view">CoffeeGeek</a></li>
+<li><a href="http://odeo.com/channel/1178/view">MAKE</a></li>
+<li><a href="http://odeo.com/channel/3420/view">SuicideGirls</a></li>
+</ul>
+
+My subscriptions change and I have some more that what I list above (BBC mostly). Here is a copy of the <a href="http://ebybox.aresgate.net/blog/stuff/podopml.xml">Odeo OPML file for my subscriptions</a>.

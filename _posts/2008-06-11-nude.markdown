@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 587
+layout: post
+title: nude
+wordpress_url: http://blog.ryaneby.com/?p=587
+---
+<object width="400" height="225"><param name="allowfullscreen" value="true" />	<param name="allowscriptaccess" value="always" /><param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=1109226&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://www.vimeo.com/moogaloop.swf?clip_id=1109226&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"></embed></object><br /><a href="http://www.vimeo.com/1109226?pg=embed&sec=1109226">Big Ideas (don't get any)</a> from <a href="http://www.vimeo.com/user354216?pg=embed&sec=1109226">James Houston</a> on <a href="http://vimeo.com?pg=embed&sec=1109226">Vimeo</a>.

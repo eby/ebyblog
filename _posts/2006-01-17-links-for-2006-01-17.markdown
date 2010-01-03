@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 170
+layout: post
+title: links for 2006-01-17
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-17/
+---
+<ul>
+	<li>
+		<div><a href="http://musicplayer.sourceforge.net/">XSPF Web Music Player (Flash) - Plays MP3 on your website</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/music">music</a> <a href="http://del.icio.us/eby/flash">flash</a> <a href="http://del.icio.us/eby/web">web</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://playr.hubmed.org/">Playr</a></div>
+		<div>bookmarklets to create playlists</div>
+		<div>(tags: <a href="http://del.icio.us/eby/bookmarklet">bookmarklet</a> <a href="http://del.icio.us/eby/music">music</a> <a href="http://del.icio.us/eby/web">web</a>)</div>
+	</li>
+</ul>

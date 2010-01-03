@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 576
+layout: post
+title: SimpleDB
+wordpress_url: http://blog.ryaneby.com/archives/simpledb/
+---
+While I still haven't had time to play around with Amazon's S3 and EC2, they've added yet another <a href="http://aws.typepad.com/aws/2007/12/a-place-for-eve.html">offering with SimpleDB</a>. 
+
+<blockquote>Amazon SimpleDB makes it really easy and straightforward to store and to retrieve structured data. You no longer need to worry about creating, maintaining, or migrating database schemas, monitoring and tuning the performance of your queries, outgrowing the storage or processing capacity of your database server, making backups, or replicating data.</blockquote>
+
+This offering removes one more barrier to scaling software. <a href="http://www.scripting.com/stories/2007/12/15/amazonRemovesTheDatabaseSc.html">Dave Winer comments</a> that Amazon is becoming the place for developers to work with in order to scale their products.
+
+<blockquote>Their move makes many things possible. As I said earlier, if it existed when we had to scale weblogs.com, we would certainly have used it. One could build an open identity system on it, probably in an afternoon, it would be perfect for that. A Twitter-like messaging system, again, would be easy. It's amazing that Microsoft and Google are sitting by and letting Amazon take all this ground in developer-land without even a hint of a response. It seems likely they have something in the works. Let's hope there's some compatibility.</blockquote>
+
+I've thought about using the systems for record indexing and some of the more intensive processes that libraries wouldn't necessarily have the hardware investment for. 
+
+Inside looking out <a href="http://www.satine.org/archives/2007/12/13/amazon-simpledb/">has a nice short breakdown</a> including that it may be written in erlang. Marcelo looked at the API and <a href="http://marcelo.sampasite.com/brave-tech-world/Amazon-SimpleDB-What-nobody-is-t.htm">thinks it's really a directory service</a> and that search might be the killer use:
+
+<blockquote>Imagine that Redfin is not a gazillion-dollar VC-backed startup. They are just getting started and want to index all listings from MLS to do a kind of search that you cannot do directly to the MLS database. They can put all that data into SimpleDB (the flexible schema is a huge plus) and not have to worry about having Terabytes of data on their own database. Do you know how much it costs in time and money to maintain a Terabyte database? A lot. There is backup, there is perf issues, there is hardware redundancy, etc.</blockquote>
+
+There's also a <a href="http://radar.oreilly.com/archives/2007/12/amazon_launches.html">breakdown on prices and comparison with the other services</a> on O'reilly radar.
+
+I've seen various projects for using S3 as the storage backend for databases like mysql. It will be interesting to see what projects come out for SimpleDB.

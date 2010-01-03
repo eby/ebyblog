@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 408
+layout: post
+title: More Meta
+wordpress_url: http://blog.ryaneby.com/archives/more-meta/
+---
+The <a href="http://inquiringlibrarian.blogspot.com/2006/11/more-structured-metadata.html">Inquiring Librarian has a nice post entitled More Structured Metadata</a>. She puts nicely what I've been meaning to say or maybe have said in the past. There really is a need for some good structured metadata in addition to what is already in the catalog. Ideally you'd have full text to also work with but for now that will be unlikely. Perhaps as the Google and other projects go on the libraries involved will be able to share metadata or API's for metadata that libraries who hold the items can use.
+
+<h4>Automation</h4>
+
+I think automation will become increasingly important and automation might not be the best label. I think this category includes API's and various other methods of resource sharing. Pulling ratings and descriptions from Amazon, relations and recommendations from LibraryThing and other services will help the catalog become more usable even if the metadata isn't used in the search index itself.
+
+I won't touch on her other points but I will agree that more consistent and structured data could help with some of the discover problems. For her example of geography-based recommendations I think a good real-world example would be <a href="http://gutenkarte.org/">Gutenkarte</a> and that's only one way of doing it. Again that's dependent on having full-text or at least a controlled word list available. 
+
+In the realm of Amazon integration I think <a href="http://search.athenscounty.lib.oh.us">Athens County Library</a> (Koha-based) is a nice example. The data is not really used in the searching but when seeing whether an item is for me I have the reviews and more right within reach. Hell, some even have <a href="http://search.athenscounty.lib.oh.us/cgi-bin/koha/opac-detail.pl?bib=175936&display=descriptions">interviews with the author</a>. All free and easy to use thanks to useful API's.
+
+<h4>User Data</h4>
+
+Another area is tags and the like. While there are arguments against the "uncontrolled" and "wild" metadata, I think it's worthwhile just for the possible relationships and recommendations that can be made based on them. You also get the added ability of allowing reading lists, class lists, reserve lists and countless other uses that can come out of it. When using most catalogs I find the subject headings to be near useless, though that's mostly an interface problem as you can't often do intersections. Even if I could though usually there isn't enough of them to narrow anything down.

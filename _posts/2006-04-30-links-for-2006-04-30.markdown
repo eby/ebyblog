@@ -1,0 +1,34 @@
+--- 
+wordpress_id: 243
+layout: post
+title: links for 2006-04-30
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-30/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://bitesizestandards.com/bites/using-the-universal-selector">Using the universal selector | Bite Size Standards</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/css">css</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://googlesystem.blogspot.com/2006/04/test-internet-explorer-7-without.html">Test Internet Explorer 7 Without Installing It</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/windows">windows</a> <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://rsinger.library.gatech.edu/enduser2006/">Declunkifying your Z-Server</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/z39">z39</a> <a href="http://del.icio.us/eby/sru">sru</a> <a href="http://del.icio.us/eby/programming">programming</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.hackdiary.com/archives/000082.html">hackdiary: Last.fm isn't just for humans</a></div>
+		<div class="delicious-extended">BBC 6 Music station on Last.FM</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/bbc">bbc</a> <a href="http://del.icio.us/eby/music">music</a> <a href="http://del.icio.us/eby/social">social</a> <a href="http://del.icio.us/eby/metadata">metadata</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://connectedflow.com/flickrexport/">FlickrExport</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/flickr">flickr</a> <a href="http://del.icio.us/eby/osx">osx</a> <a href="http://del.icio.us/eby/iphoto">iphoto</a> <a href="http://del.icio.us/eby/software">software</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://oss.linbit.com/csync2/">csync2</a></div>
+		<div class="delicious-extended">cluster sync software</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/backup">backup</a> <a href="http://del.icio.us/eby/network">network</a> <a href="http://del.icio.us/eby/linux">linux</a>)</div>
+	</li>
+</ul>

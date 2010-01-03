@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 175
+layout: post
+title: Book Rank
+wordpress_url: http://blog.ryaneby.com/archives/book-rank/
+---
+An interesting idea:
+
+<blockquote>
+<ol>
+<li>Take a single book from Amazon as a root. </li>
+<li>Take the recommended books for that book.</li>
+<li>Repeat until you have reached a distance of 20 from the original book.</li>
+<li>Add up the number of recommendations for each book.</li>
+<li>Calculate the BookRank from the Distance, Recommendations and SalesRank</li>
+<li>Display the 250 books with the highest BookRank.</li>
+
+</ol></blockquote>
+
+Some examples <a href="http://bookrank.net/index.html">are available on their site</a>. (via <a href="http://www.findability.org/archives/000090.php">findability</a>)

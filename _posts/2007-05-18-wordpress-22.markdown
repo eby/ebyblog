@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 521
+layout: post
+title: Wordpress 2.2
+wordpress_url: http://blog.ryaneby.com/archives/wordpress-22/
+---
+Most users have probably already seen it but thought I might point out some of the changes that look really useful. I'm still a huge fan of Wordpress.
+
+<ul>
+<li>You can now set your site's "home" and "siteurl" values in the wp-config.php file. Meaning you can copy the DB easily between a test and live instance without changing the options in the database. This is probably the biggest useful feature for me.</li>
+<li>Full Atom 1.0 support including Atom feeds and the Atom API</li>
+<li>Plugin Sandbox - should prevent the dreaded blank page when a plugin bombs</li>
+<li>Better UTF-8 support</li>
+</ul>
+
+Sources:
+
+<ul>
+<li><a href="http://technosailor.com/10-things-you-should-know-about-wordpress-22/">10 things you should know about Wordpress 2.2</a></li>
+<li><a href="http://www.ilfilosofo.com/blog/2007/05/16/wordpress-22-three-things-developers-will-like/">Wordpress 2.2: Three things developers will like</a></li>
+</ul>
+
+There is also the list of <a href="http://trac.wordpress.org/query?status=closed&milestone=2.2&resolution=fixed&order=id">245 closed problem tickets for the release if you want to see the bugs that were fixed</a>.

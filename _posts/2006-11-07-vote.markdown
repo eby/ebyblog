@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 407
+layout: post
+title: Vote
+wordpress_url: http://blog.ryaneby.com/archives/vote/
+---
+<a href="http://flickr.com/photos/djwudi/8938751/"><img src="http://static.flickr.com/6/8938751_806de16417_m.jpg" alt="Ballot Box" /></a>
+Photo by <a href="http://flickr.com/photos/djwudi/8938751/">djwudi</a>.
+
+Time to vote again. I went ahead and made the debates I posted public on video google. Since going public they have seen over 1,000 views and 90+ downloads all together. Many more then I thought they would get.
+
+<ul>
+<li><a href="http://video.google.com/videoplay?docid=4004584516966450316">Granholm vs Devos Debate 1</a> - 150 views, 26 downloads</li>
+<li><a href="http://video.google.com/videoplay?docid=-4336090904753718210">Granholm vs Devos Debate 2</a> - 178 views, 36 downloads</li>
+<li><a href="http://video.google.com/videoplay?docid=-8656140497107992286">Granholm vs Devos Debate 3</a> - 682 views, 29 downloads</li>
+</ul>

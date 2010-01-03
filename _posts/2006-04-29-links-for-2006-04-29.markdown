@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 242
+layout: post
+title: links for 2006-04-29
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-29/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.fecalface.com/SF/index.php?option=com_content&task=view&id=118&Itemid=52">Fecal Face - How to Screen Print a Poster</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/design">design</a> <a href="http://del.icio.us/eby/diy">diy</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.cleversafe.org/">Cleversafe Open Source Community</a></div>
+		<div class="delicious-extended">Cleversafe.org is an open source community creating software for dispersed data storage.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/gpl">gpl</a> <a href="http://del.icio.us/eby/oss">oss</a> <a href="http://del.icio.us/eby/p2p">p2p</a> <a href="http://del.icio.us/eby/backup">backup</a>)</div>
+	</li>
+</ul>

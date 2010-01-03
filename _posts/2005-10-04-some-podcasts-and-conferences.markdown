@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 74
+layout: post
+title: Some Podcasts and Conferences
+wordpress_url: http://blog.ryaneby.com/archives/some-podcasts-and-conferences/
+---
+One of my favorite radio shows, and now podcast, is <a href="http://www.bbc.co.uk/radio4/history/inourtime/">In Our Times</a> from <a href="http://www.bbc.co.uk/radio4/">BBC Radio 4</a>. They've started their new season with an episode on Magnetism. How did I find out? iTunes downloaded it. One of the great things about podcasts is the ability to "set it and forget it" as <a href="http://www.ronco.com/">Ronco would say</a>. Some have a regular schedule but things that are season-based can be more troublesome to keep up on. You can subscribe to their mailing list but I try to keep my email subscriptions to a minimum. A caveat: the mp3's are only available until the next episode comes out (podcasting is still in trial phase) otherwise you have to stream realplayer. You can dump the real stream to mp3 using <a href="http://mplayerhq.hu/">mplayer</a> if need be but I'll leave that to you.
+
+On a related note the <a href="http://we05.com/podcast/">Web Essentials 2005 Podcasts are up</a> (some link to slides too). Tons of great presentations and the quality is great. I'm a big fan of conferences that post audio and preferably slides of their presentations. <a href="http://www.itconversations.com/index.html">ITConversations</a> is a godsend, especially for someone that can't afford to go to these conferences. The Duke Podcasting Symposium <a href="http://isis.duke.edu/events/podcasting/webcast.php">has webcasts up now of sessions</a> as well.
+
+Unfortunately the library conferences, even the tech ones, seem to lag behind. The conference sites themselves are often confusing and there is no central place where people post their slides, etc. Some organizations even have them behind a authentication scheme where you have to be a member to get them. The recent <a href="http://meredith.wolfwater.com/wiki/index.php?title=Main_Page">Chicago ALA Wiki</a> was a breath of fresh air though that was more grassroots than officially ordained. I was thinking of going to the <a href="http://www.infotoday.com/il2005/">Internet Librarian 2005</a> but just can't swing it this year for various reasons both work and financial. I have my doubts on how easy it will be to find slides besides what's linked to by blogs I follow. I won't hold my breath for audio.
+
+I'll just say that if anyone is organizing a conference or working on a conference site, please take the time to think about presentations, etc. See what presenters would be willing to submit them, etc. If you can throw together the audio part then that's even better. Just a thought.

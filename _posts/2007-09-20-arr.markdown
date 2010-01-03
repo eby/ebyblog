@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 568
+layout: post
+title: Arr
+wordpress_url: http://blog.ryaneby.com/archives/arr/
+---
+As most who probably read this blog know, it was recently <a href="http://www.talklikeapirate.com/tlapd07.html">talk like a pirate day</a>. Like the <a href="http://www.thepiratebay.org">pirate bay</a> usually does, <a href="http://mashable.com/2007/09/19/flickr-pirate/">Flickr changed their logo a bit</a>. Via <a href="http://waxy.org/links/">Waxy</a> I found that there were at least a few that were not amused, from those who thought <a href="http://www.flickr.com/help/forum/54286/page4/#reply306406">the interestingness was lacking</a> to those who <a href="http://www.flickr.com/help/forum/54286/page2/#reply305691">thought their accounts compromised or piracy officially supported</a>.
+
+The pirate bay usually includes an explanation, alt text or links to a search that gives a clue. I missed the Flickr change so can't say if it was done similarly.

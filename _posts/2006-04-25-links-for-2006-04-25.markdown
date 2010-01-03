@@ -1,0 +1,41 @@
+--- 
+wordpress_id: 238
+layout: post
+title: links for 2006-04-25
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-25/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://zephyr-php.sourceforge.net/">Zephyr - AJAX Based MVC Framework for PHP5 Developers</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/php">php</a> <a href="http://del.icio.us/eby/programming">programming</a> <a href="http://del.icio.us/eby/ajax">ajax</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://amix.dk/projects/?page_id=3">The projects of amix - GoogieSpell</a></div>
+		<div class="delicious-extended">spellchecker for textarea</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/javascript">javascript</a> <a href="http://del.icio.us/eby/ajax">ajax</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://bitprophet.org/code/javascript_tab.html">javascript to handle tabs in textarea</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/javascript">javascript</a> <a href="http://del.icio.us/eby/webdev">webdev</a> <a href="http://del.icio.us/eby/forms">forms</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://blog.plasticsfuture.org/2006/04/23/mac-backup-software-harmful/">plasticsfuture Ã‚Â» Mac Backup Software Harmful</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/osx">osx</a> <a href="http://del.icio.us/eby/backup">backup</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.linux.com/article.pl?sid=06/04/12/1824235">Linux.com | How to configure a low-cost load-balanced LAMP cluster</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/linux">linux</a> <a href="http://del.icio.us/eby/php">php</a> <a href="http://del.icio.us/eby/mysql">mysql</a> <a href="http://del.icio.us/eby/apache">apache</a> <a href="http://del.icio.us/eby/howto">howto</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.mikeindustries.com/blog/archive/2006/04/myspace-click-factory">Mike Davidson: MySpace: Unstoppable Force or Unnecessary Click Factory?</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/business">business</a> <a href="http://del.icio.us/eby/webdesign">webdesign</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.orange32.com/shop/index.php?main_page=product_info&cPath=7&products_id=28">The Douche Card - $5.00 : Orange32, Online Shop</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/shopping">shopping</a> <a href="http://del.icio.us/eby/humor">humor</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.google.com/googlecalendar/event_publisher_guide.html">Google Calendar - Share an individual event on your site</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/google">google</a> <a href="http://del.icio.us/eby/api">api</a> <a href="http://del.icio.us/eby/howto">howto</a>)</div>
+	</li>
+</ul>

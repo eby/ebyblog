@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 454
+layout: post
+title: Open Source Costs and Commitments
+wordpress_url: http://blog.ryaneby.com/archives/open-source-costs-and-commitments/
+---
+There's a nice interview over at Nelsonville Public Library <a href="https://www.athenscounty.lib.oh.us/koha_questions.html">about their move to Koha back in 2003</a>. Here's a quote I think is worth reading:
+
+<blockquote>It's important that libraries do not look on Open Source as free software that they just download, press a button, and all their problems will magically be solved. Open Source requires just as much commitment as commercial software - you still only get what you pay for. Libraries should approach Open Source with the notion that they will commit a lot of staff time to understanding the code and how the software does its job. They should also be ready to commit financial resources as well, just as if they were still paying annual license fees for commercial software. The difference is, with commercial software a big portion of the license fee goes to research and development over which the library has no control, while with Open Source that same money can fund the development of the software modules that the library really wants. HLT has paid their money and received a product that works fine for their needs. Now other libraries can pay a little more money and receive enhancements to that product that will make it fit their needs - without having to pay for the development of an entire software package. HLT got what it wanted, we plan to get what we want, other libraries can pay and get what they want. The libraries are paying a one-time expense that's probably less than their annual license fees, so they win. The programmers get a very clear idea of what libraries want (money talks!), so they win. It's a great model for success!</blockquote>

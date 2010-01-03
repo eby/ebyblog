@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 240
+layout: post
+title: links for 2006-04-27
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-27/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://itunes.berkeley.edu/">UC Berkeley on iTunes U</a></div>
+		<div class="delicious-extended">expanded to include many many courses</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/itunes">itunes</a> <a href="http://del.icio.us/eby/podcast">podcast</a> <a href="http://del.icio.us/eby/education">education</a> <a href="http://del.icio.us/eby/elearning">elearning</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.libx.org/">LibX Firefox Extension for Libraries</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/firefox">firefox</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.kottke.org/06/04/hal-daisy-2001">Why does HAL sing "Daisy, Daisy" in 2001: A Space Odyssey? (kottke.org)</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/movies">movies</a> <a href="http://del.icio.us/eby/music">music</a>)</div>
+	</li>
+</ul>

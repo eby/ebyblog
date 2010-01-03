@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 164
+layout: post
+title: links for 2006-01-12
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-12/
+---
+<ul>
+	<li>
+		<div><a href="http://www.tbray.org/ongoing/When/200x/2006/01/08/No-New-XML-Languages">ongoing Ã‚Â· DonÃ¢â‚¬â„¢t Invent XML Languages</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/xml">xml</a> <a href="http://del.icio.us/eby/programming">programming</a> <a href="http://del.icio.us/eby/xhtml">xhtml</a> <a href="http://del.icio.us/eby/atom">atom</a> <a href="http://del.icio.us/eby/rss">rss</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://books.evc-cit.info/">OASIS OpenDocument Essentials</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/reference">reference</a> <a href="http://del.icio.us/eby/xml">xml</a> <a href="http://del.icio.us/eby/openoffice">openoffice</a> <a href="http://del.icio.us/eby/opendocument">opendocument</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://acrlblog.org/2006/01/11/study-shows-students-favor-privacy-over-enhancing-library-collection-and-services/">ACRLog Ã‚Â» Blog Archive Ã‚Â» Study Shows Students Favor Privacy Over Enhancing Library Collection and Services</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/privacy">privacy</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.microsoft.com/windows/windowsmedia/player/flip4mac.mspx">Windows MediaÃ‚Â® Components for QuickTime</a></div>
+		<div>note to self: test this with https</div>
+		<div>(tags: <a href="http://del.icio.us/eby/mac">mac</a> <a href="http://del.icio.us/eby/osx">osx</a> <a href="http://del.icio.us/eby/video">video</a> <a href="http://del.icio.us/eby/quicktime">quicktime</a> <a href="http://del.icio.us/eby/wmv">wmv</a> <a href="http://del.icio.us/eby/codec">codec</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://packagemapper.com/">PackageMapper.com</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/google">google</a> <a href="http://del.icio.us/eby/googlemaps">googlemaps</a>)</div>
+	</li>
+</ul>

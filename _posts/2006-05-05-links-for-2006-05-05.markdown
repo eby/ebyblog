@@ -1,0 +1,42 @@
+--- 
+wordpress_id: 250
+layout: post
+title: links for 2006-05-05
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-05-05/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://starwars.com/episode-iv/release/video/news20060503.html">Star Wars: Episode IV | This September: Original Unaltered Trilogy on DVD</a></div>
+		<div class="delicious-extended">about time</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/movies">movies</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://bokardo.com/archives/the-delicious-lesson/">Bokardo  Ã‚Â» The Del.icio.us Lesson</a></div>
+		<div class="delicious-extended">The one major idea behind the Del.icio.us Lesson is that personal value precedes network value.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/social">social</a> <a href="http://del.icio.us/eby/tagging">tagging</a> <a href="http://del.icio.us/eby/Folksonomy">Folksonomy</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://theundersigned.net/2006/05/from-xhtmlcss-to-wordpress/">The undersigned  Ã‚Â» Blog Archive   Ã‚Â» From XHTML/CSS to WordPress</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/wordpress">wordpress</a> <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.ariadne.ac.uk/issue47/tonkin/">Main Articles: 'Folksonomies: The Fall and Rise of Plain-text Tagging', Ariadne Issue 47</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/folksonomy">folksonomy</a> <a href="http://del.icio.us/eby/tagging">tagging</a> <a href="http://del.icio.us/eby/Metadata">Metadata</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://drunkmenworkhere.org/219">On Bots - Visual Comparison</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/search">search</a> <a href="http://del.icio.us/eby/visualization">visualization</a> <a href="http://del.icio.us/eby/google">google</a> <a href="http://del.icio.us/eby/Yahoo">Yahoo</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://maisonbisson.com/blog/post/11095/">WPopac Gets Googled Ã‚Â« MaisonBisson.com</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/google">google</a> <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.abcnews.go.com/US/story?id=155878&page=1">ABC News: 5-Month-Old Baby's Identity Stolen</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/identity">identity</a> <a href="http://del.icio.us/eby/security">security</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.firstmonday.org/issues/issue10_12/waaijers/index.html">From libraries to Ã¢â‚¬ËœlibratoriesÃ¢â‚¬â„¢</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/openaccess">openaccess</a> <a href="http://del.icio.us/eby/oa">oa</a>)</div>
+	</li>
+</ul>

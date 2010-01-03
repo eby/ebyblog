@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 574
+layout: post
+title: SAFE Act
+wordpress_url: http://blog.ryaneby.com/archives/safe-act/
+---
+via <a href="http://blyberg.net/">jblyberg</a>:
+
+<blockquote>The U.S. House of Representatives on Wednesday overwhelmingly approved a bill saying that anyone offering an open Wi-Fi connection to the public must report illegal images including "obscene" cartoons and drawings--or face fines of up to $300,000.
+
+That broad definition would cover individuals, coffee shops, libraries, hotels, and even some government agencies that provide Wi-Fi. It also sweeps in social-networking sites, domain name registrars, Internet service providers, and e-mail service providers such as Hotmail and Gmail, and it may require that the complete contents of the user's account be retained for subsequent police inspection.</blockquote>
+
+The <a href="http://www.news.com/8301-13578_3-9829759-38.html?tag=nefd.top">full article is available on news.com</a>

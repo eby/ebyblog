@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 161
+layout: post
+title: links for 2006-01-11
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-11/
+---
+<ul>
+	<li>
+		<div><a href="http://www.textualize.com/">textualize | reusable software components for libraries and archives</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/programming">programming</a> <a href="http://del.icio.us/eby/oss">oss</a> <a href="http://del.icio.us/eby/libraries">libraries</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://code-sign.blogspot.com/2006/01/better-css-for-subscripts.html">code-sign: Better CSS for subscripts</a></div>
+		<div>line-height fix</div>
+		<div>(tags: <a href="http://del.icio.us/eby/css">css</a> <a href="http://del.icio.us/eby/html">html</a>)</div>
+	</li>
+</ul>

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 294
+layout: post
+title: PLoS One
+wordpress_url: http://blog.ryaneby.com/archives/plos-one/
+---
+As someone with a science background I try to keep up with OA type concepts as I think it will change how things are done and probably for the better. <a href="http://www.plosone.org/">PLoS One</a> is an upcoming offering that is hoping to change how scientific knowledge/research is shared. There are likely plenty of research that doesn't make it to publishing in a large journal but may still be worth sharing with a wider audience. If it is well done science, regardless of impact, should it be shared? Another change is peer review, which will continue after the publication as a conversation.
+
+<a href="http://poynder.blogspot.com/2006/06/open-access-stage-two.html">There's an interview with one of the editors</a> which is worth a look.
+
+<blockquote>RP: So what question will peer reviewers be expected to answer when considering whether a paper submitted to PLoS ONE should be accepted for publication?
+
+CS: They will be asked to answer a simpler question than has traditionally been asked. Essentially, that question will be: "Has the science in this paper been done well enough to warrant it being entered into the scientific literature as a whole?" </blockquote>
+

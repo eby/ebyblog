@@ -1,0 +1,38 @@
+--- 
+wordpress_id: 236
+layout: post
+title: links for 2006-04-23
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-23/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.weather-photography.com/techniques.php?cat=miscellaneous&page=tornado_machine">Photography techniques: How to build a tornado machine</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/diy">diy</a> <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/science">science</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.onlamp.com/pub/a/onlamp/2006/04/20/from-weblog-to-cms.html">ONLamp.com -- From Weblog to CMS with WordPress</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/wordpress">wordpress</a> <a href="http://del.icio.us/eby/cms">cms</a> <a href="http://del.icio.us/eby/blog">blog</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.pirg.org/consumer/credit/statelaws.htm">State Breach and Freeze Laws</a></div>
+		<div class="delicious-extended">disclosure of personal information laws</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/security">security</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.sabifoo.com/main">sabifoo</a></div>
+		<div class="delicious-extended">im to blog</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/im">im</a> <a href="http://del.icio.us/eby/blogging">blogging</a> <a href="http://del.icio.us/eby/blog">blog</a> <a href="http://del.icio.us/eby/jabber">jabber</a> <a href="http://del.icio.us/eby/syndication">syndication</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.indev.ca/MailTags.html">MailTags 1.2.1 - Meta Data Plugin for Apple Mail.App</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/apple">apple</a> <a href="http://del.icio.us/eby/tags">tags</a> <a href="http://del.icio.us/eby/email">email</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.listible.com/list/gtd-software">20 Resources on GTD software Ã‚Â -Ã‚Â Listible!</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/GTD">GTD</a> <a href="http://del.icio.us/eby/reference">reference</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.openly.com/uhf/about.html">Universal Holdings Format</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/metadata">metadata</a>)</div>
+	</li>
+</ul>

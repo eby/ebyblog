@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 585
+layout: post
+title: Txt Book Info
+wordpress_url: http://blog.ryaneby.com/archives/txt-book-info/
+---
+I'm still digesting all the discussions and information from code4lib but I remembered a conversation I eavesdropped on. Casey <a href="http://twitter.com/misterbisson/statuses/771091553">reminded me it was between him and Adam Brin of Tri-College</a>. The gist was that they had put a "txt this record to me" feature onto the catalog, without any real demand, which then took off to everyone's surprise. It was one of those "that would be cool" that then turned into a "how did we do without it" for some students. I believe they rapidly went up to 60 messages a day. You can see an example on <a href="http://tripod.brynmawr.edu/record=b2922704">The Selfish Gene</a>. The feature itself sends the title and location info to your cellphone via SMS. They are using the free SMS email gateways I believe while Casey <a href="http://maisonbisson.com/blog/post/12094/scriblio-feature-text-this-to-me">went with a pay service</a>. 
+
+Most of my SMS plans allowed free incoming so I would have probably used this during my long college years. With the potential younger audience at public libraries I've heard discussion on whether kids racking up SMS charges using the catalog would be a good thing. Ed would also <a href="http://vielmetti.typepad.com/superpatron/2008/03/text-me-the-loc.html">like free alternatives</a> which probably wouldn't be hard for email if your already using the email gateways. I've already thought about all his options including adding it to our twitter script. When I revisit catwrap I'm going to look more into custom catalog experiences based on profile information such as twitter, email, phone, etc. With a little information in the profile it would be possible to slim down the display with just the applicable features (send to twitter, send to del.icio.us, etc).

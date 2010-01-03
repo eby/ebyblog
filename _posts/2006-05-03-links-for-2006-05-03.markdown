@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 248
+layout: post
+title: links for 2006-05-03
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-05-03/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://library.albany.edu/clearinghouse/">The URL Clearinghouse</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/linking">linking</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.regdeveloper.co.uk/2006/04/29/oreilly_amazon/"> WS-* vs the REST | The Register</a></div>
+		<div class="delicious-extended">It's approximately 20 per cent SOAP, 80 per cent REST.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/amazon">amazon</a> <a href="http://del.icio.us/eby/webservice">webservice</a> <a href="http://del.icio.us/eby/rest">rest</a> <a href="http://del.icio.us/eby/SOAP">SOAP</a> <a href="http://del.icio.us/eby/api">api</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://camelspit.org/handyswipe/">NedLog Ã‚Â» HandySwipe portable magnetic card reader</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/hacks">hacks</a> <a href="http://del.icio.us/eby/projects">projects</a> <a href="http://del.icio.us/eby/diy">diy</a> <a href="http://del.icio.us/eby/howto">howto</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.instructables.com/ex/i/655447F62A461029BC6B001143E7E506/?ALLSTEPS">How to make a camera attachment to take 3D Anaglyph Photos!</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/camera">camera</a> <a href="http://del.icio.us/eby/diy">diy</a> <a href="http://del.icio.us/eby/howto">howto</a> <a href="http://del.icio.us/eby/photos">photos</a> <a href="http://del.icio.us/eby/projects">projects</a>)</div>
+	</li>
+</ul>

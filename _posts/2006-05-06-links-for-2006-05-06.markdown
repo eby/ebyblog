@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 253
+layout: post
+title: links for 2006-05-06
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-05-06/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://wiki.creativecommons.org/Podcasting_Legal_Guide">Podcasting Legal Guide - CcWiki</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/legal">legal</a> <a href="http://del.icio.us/eby/podcast">podcast</a> <a href="http://del.icio.us/eby/reference">reference</a> <a href="http://del.icio.us/eby/copyright">copyright</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.flickr.com/photos/scoobyfoo/sets/72057594083488682/show/">Scoobyfoo's Applied Dreams 2.2 Presentation slideshow on Flickr</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/identity">identity</a> <a href="http://del.icio.us/eby/presentation">presentation</a> <a href="http://del.icio.us/eby/reputation">reputation</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://open.itworld.com/4934/nls_ebiz_mastfoo060502/page_1.html">open.itworld.com - Master Foo's Taxation Theory of Microformats</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/microformats">microformats</a> <a href="http://del.icio.us/eby/semanticweb">semanticweb</a> <a href="http://del.icio.us/eby/RDF">RDF</a> <a href="http://del.icio.us/eby/xml">xml</a> <a href="http://del.icio.us/eby/metadata">metadata</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://codinginparadise.org/weblog/2006/04/now-in-browser-near-you-offline-access.html">Now in a Browser Near You: Offline Access and Permanent, Client-Side Storage, Thanks to Dojo.Storage</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/javascript">javascript</a> <a href="http://del.icio.us/eby/ajax">ajax</a> <a href="http://del.icio.us/eby/webdev">webdev</a> <a href="http://del.icio.us/eby/code4lib">code4lib</a>)</div>
+	</li>
+</ul>

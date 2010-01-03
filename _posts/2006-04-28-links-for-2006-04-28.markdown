@@ -1,0 +1,63 @@
+--- 
+wordpress_id: 241
+layout: post
+title: links for 2006-04-28
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-28/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://sketchup.google.com/product_suf.html">SketchUp - Google SketchUp (free)</a></div>
+		<div class="delicious-extended">3d design software</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/google">google</a> <a href="http://del.icio.us/eby/software">software</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.smileycat.com/miaow/archives/typography-for-headlines.html">Typography for Headlines | Smiley Cat Web Design</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/typography">typography</a> <a href="http://del.icio.us/eby/design">design</a> <a href="http://del.icio.us/eby/webdesign">webdesign</a> <a href="http://del.icio.us/eby/css">css</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://olinks.sourceforge.net/">OLinks - An Open Linking Service</a></div>
+		<div class="delicious-extended">OLinks is an open-source OpenURL resolver intended for use by library consortia, individual libraries, and other organizations with a need to manage citation linking using the OpenURL standard.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/openurl">openurl</a> <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/oss">oss</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://meredith.wolfwater.com/wordpress/index.php/2006/04/26/on-skill-sharing/">Information Wants To Be Free  Ã‚Â» Blog Archive   Ã‚Â» On skill sharing</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/library2.0">library2.0</a> <a href="http://del.icio.us/eby/programming">programming</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://jeremy.zawodny.com/blog/archives/006687.html">Google's GData, MySQL, and the Future of on-line Databases (by Jeremy Zawodny)</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/google">google</a> <a href="http://del.icio.us/eby/api">api</a> <a href="http://del.icio.us/eby/atom">atom</a> <a href="http://del.icio.us/eby/mysql">mysql</a> <a href="http://del.icio.us/eby/rss">rss</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://radar.oreilly.com/archives/2006/04/database_war_stories_2_bloglin.html">O'Reilly Radar > Database War Stories #2: bloglines and memeorandum</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/databases">databases</a> <a href="http://del.icio.us/eby/programming">programming</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.xml.com/pub/a/2006/04/26/microformats-grddl-rdfa-nvdl.html">XML.com: Microformats in Context</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/microformats">microformats</a> <a href="http://del.icio.us/eby/xml">xml</a> <a href="http://del.icio.us/eby/xhtml">xhtml</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://badgerfish.ning.com/">BadgerFish - XML to JSON</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/javascript">javascript</a> <a href="http://del.icio.us/eby/XML">XML</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.phpbuilder.com/columns/adam_delves20060417_Part2.php3">Using XML: A PHP Developer's Primer, Part 4: XML-RPC, PHP and Javascript</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/xml">xml</a> <a href="http://del.icio.us/eby/php">php</a> <a href="http://del.icio.us/eby/javascript">javascript</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.blyberg.net/2006/04/25/overcoming-the-tech-deficit-and-helping-others-to/">blyberg.net Ã‚Â» Overcoming the Ã¢â‚¬Å“Tech DeficitÃ¢â‚¬Â (and helping others to)</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/library2.0">library2.0</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://nubyonrails.com/pages/gruff">Gruff Graphs for Ruby | Ruby on Rails for Newbies</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/graph">graph</a> <a href="http://del.icio.us/eby/ruby">ruby</a> <a href="http://del.icio.us/eby/rails">rails</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://jennifermadden.com/scripts/ViewRenderedSource.html">View Source Chart (Firefox Extension)</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/firefox">firefox</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.spread.org/"> The Spread Toolkit</a></div>
+		<div class="delicious-extended">Spread is an open source toolkit that provides a high performance messaging service that is resilient to faults across local and wide area networks.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/network">network</a> <a href="http://del.icio.us/eby/programming">programming</a> <a href="http://del.icio.us/eby/opensource">opensource</a>)</div>
+	</li>
+</ul>

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 355
+layout: post
+title: AIDS at 25
+wordpress_url: http://blog.ryaneby.com/archives/aids-at-25/
+---
+<img src="http://blog.ryaneby.com/stuff/aidsunaware.jpg" alt="9 out of 10 dont know they have HIV" />
+
+Seed Magazine has a coming issue on the 25th anniversery of HIV/AIDS and of the XVI International AIDS Conference. I'm still trying to get my library to subscribe (great science magazine) but they have a lot of coverage online. There's some nice infographics in a recent post and some other great posts as well.
+
+<ul>
+<li><a href="http://www.seedmagazine.com/news/2006/08/aids_at_25.php">Round-up of online posts at seedmagazine.com</a></li>
+<li><a href="http://scienceblogs.com/aids/">Coverage of the conference at ScienceBlogs.com</a></li>
+</ul>
+
+There quite a few posts on the scienceblogs referring to the anniversery. I recommend taking a look around. Not sure if any libraries did anything to mark the anniversery.

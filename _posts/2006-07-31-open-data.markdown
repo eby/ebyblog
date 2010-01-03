@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 317
+layout: post
+title: Open Data
+wordpress_url: http://blog.ryaneby.com/archives/open-data/
+---
+As I've previously written I think the ability to export or access data you put into something is important. When I'm looking at sites I try to make sure they have some sort of API or other service that allows you to get information out. While I haven't written any reviews at Amazon, it's nice to know their API gives access to my reviews and I can delete reviews if necessary. Most of Google's offerings also appear to let you export or download your data.
+
+<a href="http://oregonstate.edu/~reeset/blog/archives/307">Terry Reese posted about Tim O'reilly's keynote on this very subject</a>. Some of the topics that come up are the licensing of said APIs and data and who owns the data that you put in. An interesting project that he links to is <a href="http://www.movemydata.org/">Move My Data</a>.
+
+<blockquote>Your content and data should be yours to manage and do with as you please. Your images, writing, tags, profile, blog entries, comments, testimonials, video, and music should be yours to download and move anyplace you want. We will help ensure that no website ever holds your data hostage.</blockquote>
+
+I came across two other posts about this idea, <a href="http://www.tbray.org/ongoing/When/200x/2006/07/28/Open-Data">one at ongoing</a> and <a href="http://kontrawize.blogs.com/kontrawize/2006/07/set_my_data_fre.html">a followup at kontrawize</a>. Both are worth reading. There has also been some related posts in regards to proprietary data formats outside of web services.
+
+These are important issues that libraries must take into account when building systems or buying vendor products. Innovative is planning some of this functionality and services like OpenWorldCat already have it. Some things to ask:
+
+<ul>
+<li>Can patrons delete comments or profile information if they wish?</li>
+<li>Can patrons export reviews and other data? (outside of copy and paste)</li>
+<li>Who owns the reviews and how are they licensed?</li>
+<li>Will the data be available to others via an API?</li>
+<li>Can patrons import information from other sites?</li>
+</ul>
+
+In regards to the last one I think it would be interesting to allow patrons to put in their Amazon information and then using their API (along with xISBN) import their reviews into the system when possible. You could potentially have it check for new reviews at a schedule, allowing them to input the information at Amazon and not have the hassle of duplicating it. I haven't messed around with the review portion of the Amazon API so I'm not sure how feasible this actually is though.

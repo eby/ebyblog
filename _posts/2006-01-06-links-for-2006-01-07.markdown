@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 159
+layout: post
+title: links for 2006-01-07
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-07/
+---
+<ul>
+	<li>
+		<div><a href="http://generator.ocoins.info/">COinS Generator</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/metadata">metadata</a> <a href="http://del.icio.us/eby/openurl">openurl</a> <a href="http://del.icio.us/eby/coins">coins</a> <a href="http://del.icio.us/eby/libraries">libraries</a>)</div>
+	</li>
+</ul>

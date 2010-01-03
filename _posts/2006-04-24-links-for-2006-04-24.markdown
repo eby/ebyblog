@@ -1,0 +1,128 @@
+--- 
+wordpress_id: 237
+layout: post
+title: links for 2006-04-24
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-04-24/
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.identityblog.com/?page_id=352">Kim CameronÃ¢â‚¬â„¢s Identity Weblog Ã‚Â» THE LAWS OF IDENTITY</a></div>
+		<div class="delicious-extended">microsoft report</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/identity">identity</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.bed-breakfast-wales.co.uk/">Castell Y Graig: 4 star bed and breakfast in Wales</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.squidfingers.com/patterns/">squidfingers / patterns</a></div>
+		<div class="delicious-extended">background patterns</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/webdesign">webdesign</a> <a href="http://del.icio.us/eby/graphics">graphics</a> <a href="http://del.icio.us/eby/design">design</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.sitepoint.com/article/rock-solid-css-layouts">Rock Solid CSS Layouts [CSS Tutorials]</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/css">css</a> <a href="http://del.icio.us/eby/webdesign">webdesign</a> <a href="http://del.icio.us/eby/webdev">webdev</a> <a href="http://del.icio.us/eby/howto">howto</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://libraryjournal.com/article/CA6321736.html">Library Journal - The New Cataloger</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/metadata">metadata</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.monocalendar.com/">MonoCalendar</a></div>
+		<div class="delicious-extended">ical clone in .net</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/windows">windows</a> <a href="http://del.icio.us/eby/ical">ical</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.juiceanalytics.com/weblog/?p=161">Fixing Excel chartsÃ¢â‚¬Â¦Or, why cast stones when you can pick up a hammer - Juice Analytics</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/excel">excel</a> <a href="http://del.icio.us/eby/visualization">visualization</a> <a href="http://del.icio.us/eby/graph">graph</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.mikeindustries.com/blog/archive/2006/04/hacking-myspace-layouts">Mike Davidson: Hacking A More Tasteful MySpace</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/css">css</a> <a href="http://del.icio.us/eby/design">design</a> <a href="http://del.icio.us/eby/webdesign">webdesign</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.advanceautoparts.com/english/youcan/html/ccr/ccr20021101db.html">Replacing Disc Brake Pads | Advance Auto Parts</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/carwork">carwork</a> <a href="http://del.icio.us/eby/repair">repair</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.edmunds.com/ownership/howto/articles/43787/article.html">Change Your Brake Pads</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/carwork">carwork</a> <a href="http://del.icio.us/eby/repair">repair</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.teamlesotho.com/">Team Lesotho - Sharing Hope with the People of Lesotho. - Welcome to Team Lesotho</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.bradysdesign.com/">BRADYS DESIGN</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://itorrent.cc/">iTorrent</a></div>
+		<div class="delicious-extended">podcast torrent proxy for itunes</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/itunes">itunes</a> <a href="http://del.icio.us/eby/osx">osx</a> <a href="http://del.icio.us/eby/torrent">torrent</a> <a href="http://del.icio.us/eby/bittorrent">bittorrent</a> <a href="http://del.icio.us/eby/podcast">podcast</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://dev.extensibleforge.net/wiki/s3/fuse">Building and Mounting S3 as an infinitely large disk device</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/s3">s3</a> <a href="http://del.icio.us/eby/linux">linux</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.humanized.com/">Humanized</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.w3.org/Talks/Tools/Slidy/">HTML Slidy - Slideshows in XHTML</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/xhtml">xhtml</a> <a href="http://del.icio.us/eby/javascript">javascript</a> <a href="http://del.icio.us/eby/CSS">CSS</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://norman.walsh.name/2006/04/13/validatingMicroformats">Validating microformats</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/microformats">microformats</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.grdnbklyn.com/">GRDN: For the Urban Gardener</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/shopping">shopping</a> <a href="http://del.icio.us/eby/shop">shop</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://projects.sublink.ca/sweetie/">Sweetie | Free icon set</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/icons">icons</a> <a href="http://del.icio.us/eby/graphics">graphics</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.earwig-organics.co.uk/">Earwig Organics: Rockdust, responsible, sustainable agriculture and gardening products. Norfolk</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.lockss.org/lockss/Home">Home - LOCKSS - Lots of Copies Keeps Stuff Safe</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/p2p">p2p</a> <a href="http://del.icio.us/eby/backup">backup</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.escholarlypub.com/digitalkoans/2006/04/06/open-source-software-for-publishing-e-journals/">DigitalKoans  Ã‚Â» Blog Archive   Ã‚Â» Open Source Software for Publishing E-Journals</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/openaccess">openaccess</a> <a href="http://del.icio.us/eby/oa">oa</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.greenworldmicrobes.com/">Greenworld Organic-microbes</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.teachingforchange.net/">Teaching For Change - Teaching For Change</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/inspiration">inspiration</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.alvit.de/css-showcase/">CSS Showcase | CSS Navigation Menus, Tabs and CSS Navigation Techniques Showcase</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/css">css</a> <a href="http://del.icio.us/eby/webdesign">webdesign</a> <a href="http://del.icio.us/eby/webdev">webdev</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://next.yahoo.com/">Yahoo! Next</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/Yahoo">Yahoo</a> <a href="http://del.icio.us/eby/search">search</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://code.whytheluckystiff.net/parkplace/wiki">Park Place, the Amazon-S3 clone</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/s3">s3</a> <a href="http://del.icio.us/eby/ruby">ruby</a> <a href="http://del.icio.us/eby/amazon">amazon</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://infotangle.blogsome.com/2006/02/20/authority-in-the-age-of-the-amateur/">InfoTangle  :: Authority in the Age of the Amateur :: February :: 2006</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/blogging">blogging</a> <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/identity">identity</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://homepage.mac.com/sroy/libra/">Libra 2 - Multiple iTunes Libraries</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/eby/itunes">itunes</a> <a href="http://del.icio.us/eby/osx">osx</a> <a href="http://del.icio.us/eby/music">music</a>)</div>
+	</li>
+</ul>

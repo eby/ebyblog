@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 165
+layout: post
+title: links for 2006-01-13
+wordpress_url: http://blog.ryaneby.com/archives/links-for-2006-01-13/
+---
+<ul>
+	<li>
+		<div><a href="http://en.wikipedia.org/wiki/Library_2.0">Library 2.0 - Wikipedia, the free encyclopedia</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/libraries">libraries</a> <a href="http://del.icio.us/eby/library2.0">library2.0</a>)</div>
+	</li>
+	<li>
+		<div><a href="http://www.robinsonhouse.com/2005/12/31/wp-opensearch-10-fix-for-wp-20/">The Robinson House | wp-opensearch 1.0 fix for wp 2.0</a></div>
+		<div>(tags: <a href="http://del.icio.us/eby/wordpress">wordpress</a> <a href="http://del.icio.us/eby/opensearch">opensearch</a>)</div>
+	</li>
+</ul>

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 446
+layout: post
+title: Wordpress 2.1
+wordpress_url: http://blog.ryaneby.com/archives/wordpress-21/
+---
+<a href="http://wordpress.org/development/2007/01/ella-21/">Wordpress 2.1 is out</a>. Again it was about a 10 second upgrade <a href="http://blog.ryaneby.com/archives/easy-wordpress-upgrades-with-svn/">with svn</a>. Some of the features that look useful:
+
+<ul>
+<li>Autosave</li>
+<li>Page as front page built in (useful for CMS type installs)</li>
+<li>Upload manager</li>
+<li>Pseudo-cron and error class for plugins</li>
+</ul>
+
+A nice addition is the <a href="http://wordpress.org/extend/ideas/">voting for future enhancements</a>. Nice to see outside of the normal forum posts.
