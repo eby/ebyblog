@@ -12,7 +12,9 @@ The Sphinx I'm referring to is <a href="http://www.sphinxsearch.com/">the indexi
 
 You can convert tables and all the fields within the table with the command (from <a href="http://wolfram.kriesing.de/blog/index.php/2007/convert-mysql-db-to-utf8">pythoneer</a>):
 
-<blockquote>ALTER TABLE tbl_name CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;</blockquote>
+{% highlight mysql %}
+ALTER TABLE tbl_name CONVERT TO CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+{% endhighlight %}
 
 You could also do utf8_general_ci. From what I've picked up online is that the unicode_ci supports expansions/ligatures while the general doesn't which can affect sorting. However, the docs say the <a href="http://dev.mysql.com/doc/refman/5.0/en/charset-unicode-sets.html">the tradeoff is speed</a> in some operations. Both lack some character support versus the actual Unicode Collation Algorithm.
 
