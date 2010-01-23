@@ -29,13 +29,13 @@ I tested out quite a few public computing management software, lockdown software
 
 The thin clients we settled on are <a href="http://h10010.www1.hp.com/wwpc/us/en/sm/WF05a/12454-12454-321959-338927-89307-3634729.html">HP Compaq t5735 Thin Clients</a>. In bulk they ran under $250 each. The specs worked out for what we needed:
 
-<ul>
-<li>VESA mountable on both sides. Made it easy to securely mount to tables and even to the back of monitors</li>
-<li>1 GB Flash, 256M RAM</li>
-<li>VGA and DVI</li>
-<li>Lots of USB ports including back, front and secure (within case)</li>
-<li>Debian Linux preinstalled (stock plus some custom HP packages)</li>
-</ul>
+
+* VESA mountable on both sides. Made it easy to securely mount to tables and even to the back of monitors
+* 1 GB Flash, 256M RAM
+* VGA and DVI
+* Lots of USB ports including back, front and secure (within case)
+* Debian Linux preinstalled (stock plus some custom HP packages)
+
 
 The thing I like most about the thin clients is the imaging process. The clients come with a HP programs called HPThinState which can write a bootable imager to a USB drive. Once the USB is imaged you can boot other machines from the USB and walk through a simple imaging process. The process is simple enough that front line staff now image machines themselves when needed (usually ext3 partition corruption after power failure). This has significantly cut time of IT staff and reduced how long a client is out of order for simple problems.
 
