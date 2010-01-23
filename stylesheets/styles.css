@@ -793,7 +793,8 @@ h2.archiveTitle strong{
 }
 
 /* Highlight styles */
-.highlight  { color: #cfbfad; background-color: #1e1e27; overflow: auto; }
+.highlight  { color: #cfbfad; background-color: #1e1e27; overflow: auto; padding: 2px 2px 2px 5px; }
+.highlight pre { margin-bottom: 0px; }
 .highlight .c { color: #cd8b00; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { color: #808bed } /* Keyword */
