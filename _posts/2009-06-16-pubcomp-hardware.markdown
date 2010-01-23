@@ -17,11 +17,10 @@ For some background the previous setup consisted of windows thinclients and wind
 As I researched options I decided I wanted to drop Citrix as I didn't really see it as needed and the licensing costs aren't exactly small. I also decided I would prefer as much be opensource as possible though we decided on keeping Windows for the public facing part for now.
 
 I tested out quite a few public computing management software, lockdown software, cyber cafe software but didn't really find anything that did everything I wanted, kept it fairly simple, was flexible, etc. For reference here are a few things about our setup:
-<ul>
-	<li>Patrons can use the computer as long as they want without interruption unless there are other patrons waiting for a computer. They have a minimum 30 minutes if there is a line, after which they are given 5, 2, 1 minute warnings.</li>
-	<li>They can be idle for a total of 10 minutes before being ended (given a warning after 5)</li>
-	<li>They swipe their card at an assigner first that gives them a station. These are spaced out then random</li>
-</ul>
+
+* Patrons can use the computer as long as they want without interruption unless there are other patrons waiting for a computer. They have a minimum 30 minutes if there is a line, after which they are given 5, 2, 1 minute warnings.
+* They can be idle for a total of 10 minutes before being ended (given a warning after 5)
+* They swipe their card at an assigner first that gives them a station. These are spaced out then random
 
 <h4>The New Thin Clients</h4>
 
