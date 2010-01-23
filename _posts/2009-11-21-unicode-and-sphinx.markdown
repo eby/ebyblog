@@ -22,14 +22,16 @@ You could also do utf8_general_ci. From what I've picked up online is that the u
 
 You will want to set your index definition to have:
 
-<blockquote>charset_type = utf-8</blockquote>
+{% highlight mysql %}
+charset_type = utf-8
+{% endhighlight %}
 
 While the docs mostly just mention that I highly recommend adding the following to your source definition:
 
-<blockquote>
+{% highlight mysql %}
 sql_query_pre = SET CHARACTER_SET_RESULTS=utf8
 sql_query_pre = SET NAMES utf8
-</blockquote>
+{% endhighlight %}
 
 While you might think that having your tables in utf8 collation, mysql set to default to it and php encoding in utf8 would be enough, if the client doesn't specify that it is doing utf8 mysql will store it in whatever encoding it thinks it is getting. I battled with php configs to try to ensure all machines modifying the tables were talking the same but you'll save yourself the trouble by defining this here and also in your scripts that write to the tables.
 
