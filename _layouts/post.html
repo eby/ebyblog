@@ -17,7 +17,13 @@
 	    </ul> 
 	  </div>
 <div id="coreContent" class="hfeed">
-{{ content }}
+	<div class="post hentry">
+		<h5 class="postDate"><abbr class="published">{{ post.date | date: "%B %d, %Y" }}</abbr></h5>
+		<h3 class="entry-title">{{ post.title }}</h3>
+    <div class="entry-content">
+			{{ content }}
+		</div>
+	</div>
 </div>
 <div id="paginate_links">
 	{% if paginator.previous_page %}
