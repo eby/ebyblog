@@ -19,7 +19,14 @@
 <div id="coreContent" class="hfeed">
 {{ content }}
 </div>
-
+<div id="paginate_links">
+	{% if paginator.previous_page %}
+		<div class="newer"><a href="/{% unless paginator.previous_page == 1 %}page{{paginator.previous_page}}/{% endunless %}">« Newer posts</a></div>
+	{% endif %}
+  {% if paginator.next_page %}
+  	<div class="older"><a href="/page{{paginator.next_page}}/">Older posts »</a></div>
+	{% endif %}
+</div>
 <div id="footer"> 
 	
   <h5>Elsewhere</h5> 
