@@ -714,34 +714,6 @@ h2.archiveTitle strong{
   float: right;
 }
 
-/* Search Results
--------------------------------------------------------------------- */
-
-#coreContent.searchresults{
-  margin-top: -35px;
-}
-.searchresults .postMeta{
-  text-align: left;
-}
-.searchpanel{
-  border-top: 1px solid #efefef;
-  border-bottom: 1px solid #efefef;
-  margin: 0 0 40px;
-  padding: 10px 0;
-}
-.searchpanel input[type=text]{
-  width: 250px;
-  font-size: 1.7em;
-}
-.searchpanel input[type=submit]{
-  font-weight: normal;
-  -webkit-border-radius: 12px;
-  -moz-border-radius: 16px;
-  background-position: left 5px;
-  font-size: 1.4em;
-  
-}
-
 /* Footer
 -------------------------------------------------------------------- */
 
@@ -752,6 +724,7 @@ h2.archiveTitle strong{
   border-top: 4px double #ccc;
   color: #666;
   text-align: center;
+	clear: both;
 }
 .footerContent{
   width: 500px;
@@ -796,37 +769,6 @@ h2.archiveTitle strong{
 }
 #footer #search input[type=text]:focus{
   border-color: #999;
-}
-
-/* Google Ad
--------------------------------------------------------------------- */
-
-.googleAd{
-  margin-bottom: 40px;
-  padding-top: 40px;
-  border-top: 1px dotted #ccc;
-}
-
-/* Admin Edits
--------------------------------------------------------------------- */
-
-.loggedin a:link,
-.loggedin a:visited,
-a.post-edit-link:link,
-a.post-edit-link:visited,
-a.comment-edit-link:link,
-a.comment-edit-link:visited{
-  color: #f00;
-  font-weight: bold;
-  text-decoration: underline;
-}
-#coreContent p.loggedin{
-  display: inline-block;
-  margin-bottom: 35px;
-  padding: 10px;
-  background: #efefef;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
 }
 
 /* Self Clearing Floats
