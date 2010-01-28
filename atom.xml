@@ -13,7 +13,7 @@ layout: nil
    <name>Ryan Eby</name>
  </author>
 
- {% for post in site.posts limit 20 %}
+ {% for post in site.posts limit:20 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://blog.ryaneby.com{{ post.url }}"/>
