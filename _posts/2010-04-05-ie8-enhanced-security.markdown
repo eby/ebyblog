@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: IE8 Upgrade and Enhanced Security Stuck For Some Profiles
+categories: code4lib
 ---
 
 Had an issue with IE upgrades in the recent past where after the upgrade multiple pre-existing profiles would  state they were in "Enhanced Security Mode" despite that mode being disabled. New profiles would work fine and Administrator usually did as well.
