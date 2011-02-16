@@ -10,6 +10,6 @@ title: ebyblog
       <div class="entry-content">
 				{{ post.content }}
 			</div>
-			<a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ post.url }}" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+			<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ryaneby.com{{ post.url }}" data-text="ebyblog: {{ post.title }}" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 		</div>
     {% endfor %}
