@@ -2,6 +2,7 @@
 layout: post
 title: Bagit Validation and CIJoe
 categories: code4lib
+date: 2011-02-18 16:00:00
 ---
 
 I've started playing around with [bagit](https://confluence.ucop.edu/display/Curation/BagIt) and some of the other [curation microservices](https://confluence.ucop.edu/display/Curation/Home). One of the features involved is manifest files w/ checksums of all the data files in the bag. So far I'm still just getting the hang of it but decided to try [cbeer's bagit gem](https://github.com/cbeer/bagit) and try hooking the validate function to [cijoe](https://github.com/defunkt/cijoe) integration server. With the bag in git repository it was easy to have cijoe run a simple script that returned zero when validated, or one with output if there was a problem. cijoe can use git hooks to notify via various methods (example one for email is given in repo).
