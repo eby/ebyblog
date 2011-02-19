@@ -68,7 +68,7 @@ table {
 
 body{
   background: #fff;
-  font: 62.5% constantia, palatino, "times new roman";
+  font: 100% "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif;
   color: #333;
 }
 strong{
