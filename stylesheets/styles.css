@@ -1,74 +1,9 @@
-/*
-Theme Name: Manifest
-Theme URI: 
-Description: A clean and streamlined theme that focuses on the content and not the distractions.
-Version: 1.0
-Author: Jim Barraud
-Author URI: http://jimbarraud.com
-Tags: simple, clean, single column
-
-*/
-
-/* Reset All Styles
--------------------------------------------------------------------- */
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	outline: 0;
-	font-size: 100%;
-	vertical-align: baseline;
-	background: transparent;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-
-/* remember to define focus styles! */
-:focus {
-	outline: 0;
-}
-
-/* remember to highlight inserts somehow! */
-ins {
-	text-decoration: none;
-}
-del {
-	text-decoration: line-through;
-}
-
-/* tables still need 'cellspacing="0"' in the markup */
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
 /* Global Styles
 -------------------------------------------------------------------*/
 
 body{
   background: #fff;
-  font: 100% "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif;
+  font: .8em "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif;
   color: #333;
 }
 strong{
@@ -202,15 +137,15 @@ input[type=submit]:focus{
 #siteWrapper{
   margin: 0 auto;
   padding-top: 15px;
-  width: 500px;
+  width: 600px;
   text-align: center;
   position: relative;
-  
+  font-size: .8 em;  
 }
 #siteDescription{
   font-size: 1.2em;
   margin: 10px auto 60px;
-  width: 400px;
+  width: 600px;
   padding: 11px 0 13px;
   color: #999;
   font-style: italic;
@@ -269,7 +204,7 @@ input[type=submit]:focus{
 
 #coreContent{
   float: left;
-  width: 500px;
+  width: 600px;
   margin-top: 8px;
 }
 
@@ -716,7 +651,7 @@ h2.archiveTitle strong{
 /* Footer
 -------------------------------------------------------------------- */
 
-#footer{
+footer{
   width: 500px;
   margin: 40px auto 0;
   padding: 20px 0 35px 0;
@@ -730,13 +665,13 @@ h2.archiveTitle strong{
   margin: 20px auto 0;
   clear: left;
 }
-#footer p{
+footer p{
   line-height: 1.4em;
 }
-#footer #search{
+footer #search{
   margin: 15px 0 30px;
 }
-#footer h5{
+footer h5{
   position: relative;
   top: 0;
   margin-bottom: 8px;
@@ -747,17 +682,17 @@ h2.archiveTitle strong{
   text-transform: uppercase;
   border-bottom: none;
 }
-#footer .elsewhere{
+footer .elsewhere{
   margin-bottom: 30px;
 }
-#footer .elsewhere li{
+footer .elsewhere li{
   display: inline;
   padding: 0 8px 0 0;
   margin: 0 5px 0 0;
   border-right: 1px dotted #ccc;
   font-size: 1.2em;
 }
-#footer .elsewhere li.last{
+footer .elsewhere li.last{
   padding: 0;
   margin: 0;
   border-right: none;
@@ -766,7 +701,7 @@ h2.archiveTitle strong{
   font-size: 1.4em;
   border-color: #ccc;
 }
-#footer #search input[type=text]:focus{
+footer #search input[type=text]:focus{
   border-color: #999;
 }
 
@@ -777,7 +712,7 @@ h2.archiveTitle strong{
 .post:after,
 .commentEntry:after,
 .commentForm:after,
-#footer .elsewhere:after,
+footer .elsewhere:after,
 #metaContent .metaExtend:after,
 #mainNav:after,
 #mainNav ul:after,
