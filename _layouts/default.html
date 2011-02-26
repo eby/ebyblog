@@ -11,16 +11,15 @@
   <link rel="shortcut icon" href="http://cdn.ryaneby.com/favicon.ico">
   <title>{{ page.title }} - ebyblog</title>
   <script type="text/javascript" src="http://use.typekit.com/gbo8yna.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
-<div id="siteWrapper">
 <header>
-	<h1 class="vcard author"><a href="http://ryaneby.com/" title="Home" class="fn">ebyblog</a></h1>
+	<h1 class="vcard author"><a href="http://ryaneby.com/" title="Home" class="fn">ebyblog</a> - libraries, technology and farming</h1>
 </header>
-<div id="coreContent" class="hfeed">
+<section id="coreContent" class="hfeed">
 {{ content }}
-</div>
+</section>
 <div id="paginate_links">
 	{% if paginator.previous_page %}
 		<div class="newer"><a href="/{% unless paginator.previous_page == 1 %}page{{paginator.previous_page}}/{% endunless %}">« Newer posts</a></div>
@@ -40,6 +39,5 @@
     <li class="last"><a href="http://twitter.com/eby">Twitter</a></li>  
   </ul> 
 </footer>
-</div>
 </body>
 </html>

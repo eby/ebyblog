@@ -3,8 +3,11 @@
 
 body{
   background: #fff;
-  font: .8em "minion-pro-1", "minion-pro-2", Palatino, Georgia, "Times New Roman", serif;
-  color: #333;
+  font: normal 15pt/1.8em "adrianne-1","adrianne-2", Palatino, Georgia, "Times New Roman", serif;
+  color: #222;
+  max-width: 40em;
+  margin: auto;
+  padding: 0 1.8em 0 1.8em;
 }
 strong{
   font-weight: bold;
@@ -14,37 +17,36 @@ strong{
 
 a:link,
 a:visited{
-  color: #9C8A6A;
+  color: red;
   text-decoration: none;
 }
 a:hover,
 a:active{
-  color: #3E372B;
+  color: red;
   text-decoration: underline;
 }
 
 /* Headers */
 
 h1{
-  margin: 10px 0 20px;
-  font-size: 3.3em;
+  margin: 1em 0;
+  font-size: 1em;
   font-weight: normal;
-  text-transform: uppercase;
+  font-style: normal;
   letter-spacing: .05em;
   word-spacing: .2em;
-}
-h1 a{
-  padding-right: 60px;
-  margin-left: 60px;
 }
 h1 a:link,
 h1 a:visited{
   color: #000;
+  font-style: italic;
+  font-size: 2.3em;
 }
 h1 a:hover,
 h1 a:active{
   color: #000;
   text-decoration: underline;
+  font-size: 2.3em;
 }
 h2{
   margin-top: 30px;
@@ -132,80 +134,13 @@ input[type=submit]:focus{
   border-color: #666;
 }
 
-/* Structure */
-
-#siteWrapper{
-  margin: 0 auto;
-  padding-top: 15px;
-  width: 600px;
-  text-align: center;
-  position: relative;
-  font-size: .8 em;  
-}
-#siteDescription{
-  font-size: 1.2em;
-  margin: 10px auto 60px;
-  width: 600px;
-  padding: 11px 0 13px;
-  color: #999;
-  font-style: italic;
-}
-
-/* Main Navigation
--------------------------------------------------------------------*/
-
-#mainNav{
-  margin-top: 10px;
-  margin-bottom: 60px;
-  padding: 5px;
-  background: #FBFBFB;
-  border-top: 1px solid #EAEAEA;
-  border-bottom: 1px solid #EAEAEA;
-}
-#mainNav ul{
-  margin: 0 auto;
-  width: 45em;
-  text-align: center;
-}
-#mainNav li{
-  display: inline;
-  margin-right: 20px;
-  font-size: 1.5em;
-  text-transform: uppercase;
-}
-#mainNav li:last-child{
-  margin-right: 0;
-}
-#mainNav a:link,
-#mainNav a:visited{
-  color: #999;
-}
-#mainNav a:hover,
-#mainNav a:active{
-  text-decoration: underline;
-  color: #2E301C;
-}
-#mainNav .current_page_parent a:link,
-#mainNav .current_page_parent a:visited,
-#mainNav .current_page_item a:link,
-#mainNav .current_page_item a:visited{
-  font-weight: bold;
-  color: #2A2D1A;
-}
-#mainNav .current_page_parent a:hover,
-#mainNav .current_page_parent a:active,
-#mainNav .current_page_item a:hover,
-#mainNav .current_page_item a:active{
-  color: #2E301C;
-}
-
 /* Main Content Body
 -------------------------------------------------------------------*/
 
 #coreContent{
-  float: left;
-  width: 600px;
-  margin-top: 8px;
+  margin-top: 4em;
+  font-size: 10pt; 
+  line-height: 2.4em;
 }
 
 /* Posts
@@ -414,104 +349,6 @@ input[type=submit]:focus{
 }
 #coreContent .entry-content #linkList ul{
   margin: 10px 0 40px;
-}
-
-/* Comments
--------------------------------------------------------------------*/
-
-.commentEntry{
-  padding: 25px 0;
-  border-bottom: 1px solid #ccc;
-}
-#coreContent .commentEntry p{
-  color: #666;
-}
-.avatar{
-  float: left;
-  margin-top: 4px;
-}
-.commentContent{
-  float: left;
-  width: 415px;
-  margin-left: 22px;
-}
-.commentMeta{
-  color: #333;
-  font-size: 1.1em;
-  text-align: left;
-}
-.commentMeta a:link,
-.commentMeta a:visited{
-  font-weight: bold;
-}
-.nocomments{
-  font-size: 1.2em;
-  padding: 25px 0;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-}
-
-/* Comment Form */
-
-fieldset{
-  background: #F6F6F6;
-  padding: 0 0 10px;
-}
-legend{
-  position: relative;
-  display: block;
-  font-size: 1.4em;
-  font-weight: bold;
-  text-align: left;
-  margin: 0;
-  padding: 0 0 4px 0;
-}
-legend span{
-  position: relative;
-  top: -15px;
-  display: block;
-  width: 500px;
-  background-color: #fff;
-}
-#comments h4,
-legend span{
-  border-top: 2px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  padding: .5em 0 .7em;
-  font-weight: bold;
-  text-align: left;
-}
-.leaveComment{
-  margin-top: 14px;
-  padding-bottom: 19px;
-}
-.commentForm{
-  font-size: 1.1em;
-  text-align: left;
-  text-transform: uppercase;
-  margin: 0 10px;
-}
-.commentForm em{
-  text-transform: lowercase;
-  font-style: italic;
-  color: #999;
-  font-size: 1em;
-}
-.commentForm input[type=text]{
-  display: block;
-  margin-bottom: 15px;
-  width: 470px;
-  font-size: 1.4em;
-}
-.commentForm textarea{
-  width: 470px;
-  max-width: 470px; /* Restricts the resizing capability in webkit bases browsers */
-  height: 150px;
-  font-size: 1.4em;
-}
-.commentForm input[type=submit]{
-  float: right;
-  margin-top: 8px;
 }
 
 /* Paging Navigation
