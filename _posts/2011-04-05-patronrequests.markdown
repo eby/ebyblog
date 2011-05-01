@@ -4,6 +4,8 @@ title: Staff Requests in SOPAC
 categories: code4lib
 date: 2011-04-05 18:00:00
 ---
+Cross-posted from the [AADL Devblog](http://www.aadl.org/devblog)
+
 Over the past few years we've taken advantage of having a catalog we can tweak and change. Recently as we've been able to store more data outside of the ILS we have gone the route of making our catalog one of main development platforms.
 
 However, staff still had to go back to the staff client for the ILS for some functions. While many of those functions don't really make sense as part of the catalog, requesting items for other patrons was one that did. Having full control over the search and what fields are indexed created a back and forth between the client and website for finding things.
