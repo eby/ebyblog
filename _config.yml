@@ -1,10 +1,16 @@
 title: Ryan Eby
-email: eby@ryaneby.com
 baseurl: ""
 url: "https://ryaneby.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+
+minima:
+  skin: auto
+  social_links:
+    - title: ebyblog on github
+      icon: github
+      url: "https://github.com/eby/ebyblog"
 plugins:
   - jekyll-feed
 
