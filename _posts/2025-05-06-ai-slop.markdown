@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: AI Slop Roundup
+categories: link
+date: 2025-05-06 11:00:00
+---
+
+> I hate that this is the bleak future which venture capitalists and AI boosters have gleefully laid out for us, that they consider this to be a "democratizing" technology in any real sense of the word. Far from strengthening democracy, these are technologies more apt at propping up scam capitalism and multi-level marketing schemes. I would like my time and mental space back.
+> 
+> [I Hate Wasting Time on Identifying AI Slop](https://buttondown.com/maiht3k/archive/i-hate-wasting-time-on-identifying-ai-slop/)
+
+> Not, you'll note, the actual reality of AI, but rather, the story that AI lets you "collapse the organization," slash headcount and salaries, and pauperize the (former) princes of labor.
+>
+> The point of AI isn't to make workers more productive, it's to make them weaker when they bargain with their bosses.
+> 
+> [The enshittification of tech jobs](https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others)
+
+> The return to office fad was a big part of this effort, often largely motivated by reacting to the show of worker power in the racial justice activism efforts of 2020. Similarly, being AI-first shows that a company is participating in the AI trend in the "right" way, by imposing it on workers, rather than trusting workers to judge what tools are useful for them to do their jobs.
+> 
+> ["AI-first" is the new Return To Office](https://www.anildash.com/2025/04/19/ai-first-is-the-new-return-to-office/)
