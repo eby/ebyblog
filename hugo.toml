@@ -40,3 +40,7 @@ languageCode = "en-us"
     name = "About"
     url = "/about/"
     weight = 10
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 20
