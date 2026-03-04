@@ -1,0 +1,46 @@
+baseURL = "https://ryaneby.com"
+title = "Ryan Eby"
+theme = "PaperMod"
+languageCode = "en-us"
+
+# Pretty URLs: /YYYY/MM/DD/slug/
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+# Derive dates from filename for posts without a date field
+[frontmatter]
+  date = [":filename", ":default"]
+
+# Allow raw HTML in Markdown (needed for WordPress-era posts with inline HTML)
+[markup.goldmark.renderer]
+  unsafe = true
+
+# RSS at /index.xml, limit to 20 posts
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[services.rss]
+  limit = 20
+
+[taxonomies]
+  category = "categories"
+
+[params]
+  author = "Ryan Eby"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowToc = false
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/eby/ebyblog"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
