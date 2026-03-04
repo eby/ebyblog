@@ -1,6 +1,6 @@
 baseURL = "https://ryaneby.com"
 title = "Ryan Eby"
-theme = "PaperMod"
+theme = "ebytheme"
 languageCode = "en-us"
 
 # Pretty URLs: /YYYY/MM/DD/slug/
@@ -15,6 +15,12 @@ languageCode = "en-us"
 [markup.goldmark.renderer]
   unsafe = true
 
+# Syntax highlighting via CSS classes (no inline styles, no JS)
+[markup.highlight]
+  noClasses = false
+  lineNos = false
+  codeFences = true
+
 # RSS at /index.xml, limit to 20 posts
 [outputs]
   home = ["HTML", "RSS"]
@@ -28,16 +34,6 @@ languageCode = "en-us"
 
 [params]
   author = "Ryan Eby"
-  ShowReadingTime = false
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = false
-  ShowCodeCopyButtons = true
-  ShowToc = false
-
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/eby/ebyblog"
 
 [menu]
   [[menu.main]]

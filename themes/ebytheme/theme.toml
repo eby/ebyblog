@@ -1,0 +1,11 @@
+name = "ebytheme"
+license = "MIT"
+licenselink = ""
+description = "Personal monospace blog theme"
+homepage = "https://ryaneby.com"
+tags = ["blog", "monospace", "minimal"]
+features = ["blog"]
+min_version = "0.120.0"
+
+[author]
+  name = "Ryan Eby"

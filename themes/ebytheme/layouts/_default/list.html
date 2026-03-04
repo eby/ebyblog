@@ -1,0 +1,26 @@
+{{- define "main" }}
+<section>
+  {{- if not .IsHome }}
+  <h1>{{ .Title }}</h1>
+  {{- end }}
+  <ol class="post-list" reversed>
+    {{- range .Paginator.Pages }}
+    <li>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{- end }}
+  </ol>
+  {{- if gt .Paginator.TotalPages 1 }}
+  <nav class="pagination" aria-label="Pagination">
+    {{- with .Paginator.Prev }}
+    <a href="{{ .URL }}" class="prev">← newer</a>
+    {{- end }}
+    <span class="page-info">{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
+    {{- with .Paginator.Next }}
+    <a href="{{ .URL }}" class="next">older →</a>
+    {{- end }}
+  </nav>
+  {{- end }}
+</section>
+{{- end }}
