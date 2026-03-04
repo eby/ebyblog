@@ -236,10 +236,10 @@ pre code {
 
 .post-list li {
   margin-bottom: 0.4rem;
-  display: flex;
-  gap: 2ch;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0 3ch;
   align-items: baseline;
-  flex-wrap: wrap;
 }
 
 .post-list time {
@@ -384,7 +384,7 @@ footer a:hover {
   }
 
   .post-list li {
-    flex-direction: column;
+    grid-template-columns: 1fr;
     gap: 0;
     margin-bottom: 0.75rem;
   }
