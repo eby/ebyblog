@@ -1,7 +1,33 @@
+/* ===== Fonts ========================================================= */
+
+@font-face {
+  font-family: "Berkeley Mono";
+  src: url("/fonts/BerkeleyMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Berkeley Mono";
+  src: url("/fonts/BerkeleyMono-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Berkeley Mono";
+  src: url("/fonts/BerkeleyMono-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ===== Variables & Color Scheme ===================================== */
 
 :root {
-  --font: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo,
+  --font: "Berkeley Mono", ui-monospace, "Cascadia Code", "Source Code Pro", Menlo,
           Consolas, "DejaVu Sans Mono", monospace;
   --bg:        #fafafa;
   --fg:        #111;
