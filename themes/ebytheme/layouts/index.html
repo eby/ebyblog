@@ -1,5 +1,5 @@
 {{- define "main" }}
-<section>
+<div class="page-wrap">
   <ol class="post-list" reversed>
     {{- range first 20 .Site.RegularPages }}
     <li>
@@ -9,5 +9,5 @@
     {{- end }}
   </ol>
   <p class="archive-link"><a href="/posts/">all posts →</a></p>
-</section>
+</div>
 {{- end }}

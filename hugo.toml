@@ -1,7 +1,7 @@
 baseURL = "https://ryaneby.com"
 title = "Ryan Eby"
 theme = "ebytheme"
-languageCode = "en-us"
+locale = "en-us"
 
 # Pretty URLs: /YYYY/MM/DD/slug/
 [permalinks]

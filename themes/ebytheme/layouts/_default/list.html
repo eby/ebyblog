@@ -1,7 +1,7 @@
 {{- define "main" }}
-<section>
+<div class="page-wrap">
   {{- if not .IsHome }}
-  <h1>{{ .Title }}</h1>
+  <h1 class="page-title">{{ .Title }}</h1>
   {{- end }}
   <ol class="post-list" reversed>
     {{- range .Paginator.Pages }}
@@ -14,13 +14,13 @@
   {{- if gt .Paginator.TotalPages 1 }}
   <nav class="pagination" aria-label="Pagination">
     {{- with .Paginator.Prev }}
-    <a href="{{ .URL }}" class="prev">← newer</a>
+    <a href="{{ .URL }}">← newer</a>
     {{- end }}
-    <span class="page-info">{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
+    <span>{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
     {{- with .Paginator.Next }}
-    <a href="{{ .URL }}" class="next">older →</a>
+    <a href="{{ .URL }}">older →</a>
     {{- end }}
   </nav>
   {{- end }}
-</section>
+</div>
 {{- end }}

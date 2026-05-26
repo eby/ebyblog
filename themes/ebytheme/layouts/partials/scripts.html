@@ -1,0 +1,94 @@
+<script>
+(function(){
+  var html = document.documentElement;
+
+  // Theme toggle
+  var btn = document.getElementById('themeToggle');
+  var label = document.getElementById('themeLabel');
+  function applyTheme(t) {
+    html.setAttribute('data-theme', t);
+    if (label) label.textContent = t;
+    localStorage.setItem('theme', t);
+  }
+  // Sync label with current theme on load
+  if (label) label.textContent = html.getAttribute('data-theme') || 'light';
+  if (btn) {
+    btn.addEventListener('click', function() {
+      var cur = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      applyTheme(cur);
+    });
+  }
+
+  // Reading progress bar
+  var bar = document.getElementById('progress');
+  function updateProgress() {
+    if (!bar) return;
+    var h = document.documentElement;
+    var scrolled = h.scrollTop || document.body.scrollTop;
+    var total = h.scrollHeight - h.clientHeight;
+    bar.style.width = (total > 0 ? Math.max(0, Math.min(1, scrolled / total)) * 100 : 0) + '%';
+  }
+  document.addEventListener('scroll', updateProgress, { passive: true });
+  updateProgress();
+
+  // TOC scrollspy
+  var tocLinks = document.querySelectorAll('#TableOfContents a');
+  if (tocLinks.length) {
+    var sections = [];
+    tocLinks.forEach(function(a) {
+      var id = a.getAttribute('href');
+      if (id && id.startsWith('#')) {
+        var el = document.querySelector(id);
+        if (el) sections.push({ link: a, el: el });
+      }
+    });
+    function spy() {
+      var active = 0;
+      for (var i = 0; i < sections.length; i++) {
+        if (sections[i].el.getBoundingClientRect().top < 120) active = i;
+      }
+      sections.forEach(function(s, i) {
+        s.link.classList.toggle('active', i === active);
+      });
+    }
+    document.addEventListener('scroll', spy, { passive: true });
+    spy();
+  }
+
+  // Sidenote / margin-note: click to toggle on mobile
+  document.querySelectorAll('.sn-ref, .mn-ref').forEach(function(ref) {
+    ref.addEventListener('click', function(e) {
+      e.preventDefault();
+      ref.classList.toggle('is-open');
+    });
+  });
+
+  // Sidenote positioning on desktop: anchor each note to its marker's top
+  var mainCol = document.querySelector('.main-col');
+  if (mainCol) mainCol.style.position = 'relative';
+
+  function placeSidenotes() {
+    var desktop = window.matchMedia('(min-width: 1080px)').matches;
+    document.querySelectorAll('.main-col .sidenote, .main-col .marginnote').forEach(function(note) {
+      if (!desktop) {
+        note.style.top = '';
+        note.style.transform = '';
+        return;
+      }
+      // Walk back to find the preceding marker button
+      var marker = note.previousElementSibling;
+      while (marker && !marker.matches('.sn-ref, .mn-ref')) {
+        marker = marker.previousElementSibling;
+      }
+      if (!marker || !mainCol) return;
+      var markerRect = marker.getBoundingClientRect();
+      var colRect = mainCol.getBoundingClientRect();
+      note.style.top = (markerRect.top - colRect.top + mainCol.scrollTop) + 'px';
+      note.style.transform = 'translateY(-1.2em)';
+    });
+  }
+
+  window.addEventListener('load', placeSidenotes);
+  window.addEventListener('resize', placeSidenotes);
+})();
+</script>

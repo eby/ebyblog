@@ -14,9 +14,19 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | absURL }}">
 
-  {{- /* Font preloads — improves LCP for above-the-fold text */ -}}
+  {{- /* Font preloads — improves LCP */ -}}
   <link rel="preload" href="/fonts/BerkeleyMono-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/BerkeleyMono-Medium.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/BerkeleyMono-Bold.woff2" as="font" type="font/woff2" crossorigin>
+
+  {{- /* Prevent flash of wrong theme: apply saved/system preference before render */ -}}
+  <script>
+    (function(){
+      var saved = localStorage.getItem('theme');
+      var theme = saved || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
 
   {{- /* CSS via Hugo Pipes: minify + fingerprint in production */ -}}
   {{- $css := resources.Get "css/main.css" -}}
